@@ -1,2 +1,2 @@
-# teludere.github.io
-quality over quantity gamesite with a Catppuccin theme and Phosphor Icons.
+# Te Ludere
+### *Te Ludere - you play*
