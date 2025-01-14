@@ -1,2 +1,4 @@
-# Te Ludere
-### *Te Ludere - you play*
+sixvertical site to do list
+- games
+- graphics
+- something cool :)
